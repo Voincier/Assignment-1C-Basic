@@ -1,0 +1,4 @@
+D:\TGP\Spec2\Assignment_1\obj\Debug\net7.0\Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TGP\Spec2\Assignment_1\obj\Debug\net7.0\Assignment_1.AssemblyInfoInputs.cache
+D:\TGP\Spec2\Assignment_1\obj\Debug\net7.0\Assignment_1.AssemblyInfo.cs
+D:\TGP\Spec2\Assignment_1\obj\Debug\net7.0\Assignment_1.csproj.CoreCompileInputs.cache
